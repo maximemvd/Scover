@@ -1,4 +1,4 @@
-### End-User License Agreement
+# End-User License Agreement
 
 Updated at 2022-03-07
 
@@ -51,6 +51,7 @@ You agree not to, and you will not permit others to:
   -License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose or otherwise commercially exploit the Application or make the Application available to any third party.
   -Modify, make derivative works of, disassemble, decrypt, reverse compile or reverse engineer any part of the Application.
   -Remove, alter or obscure any proprietary notice (including any notice of copyright or trademark) of Scover or its affiliates, partners, suppliers or the licensors of the Application.
+  -Post objectionable content or use Scover in an abusive manner. 
 
 
 ## Intellectual Property
