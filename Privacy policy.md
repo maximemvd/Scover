@@ -117,7 +117,7 @@ Your consent to this Privacy Policy followed by Your submission of such informat
 
 The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-### Request Data deletion
+## Request Data deletion
 You can always delete all of your data by going in your profile settings. Simply press on **Delete account** and all of your data will be erased from our database.
 
 ## Disclosure of Your Personal Data
